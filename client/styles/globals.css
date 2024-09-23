@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.departure-select div {
+  border-radius: 50px 0px 0px 50px!important;
+
+}
+
+.arrival-select div {
+  border-radius: 0px 50px 50px 0px!important;
+
+}
+
+.left-datepicker div .rs-input-group{
+  border-radius: 50px 0px 0px 50px!important;
+
+}
+.left-datepicker div .rs-input-group input{
+  border-radius: 50px 0px 0px 50px!important;
+}
+
+.right-datepicker div .rs-input-group {
+  border-radius: 0px 50px 50px 0px!important;
+
+}
